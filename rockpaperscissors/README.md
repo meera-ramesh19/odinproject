@@ -1,4 +1,0 @@
-#rockpaperscissors
-
-
-PROGRAM TO PLAY ROCK PAPER SCISSORS
